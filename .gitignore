@@ -1,6 +1,13 @@
 # Virtual environment
 chest/
 
+# Data and artifacts (managed by DVC)
+Data/
+artifacts/
+
+# Mac system files
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
